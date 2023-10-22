@@ -1,7 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# [Screeenshots of the app](Contacts_app_screenshots.pdf)
 # Getting Started
-[Some title here](Contacts_app_screenshots.pdf)
 <embed src="https://github.com/usama-muf/Contact-App-React-Native/blob/main/Contacts_app_screenshots.pdf" width="100%" height="850px"/>
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
